@@ -2,37 +2,35 @@
 
 IT professional with 25+ years of experience in infrastructure, operations, and troubleshooting.
 
-Recently completed a two-year backend development program, and currently pursuing frontend development (1 year remaining) alongside upcoming studies in cybersecurity.
+Recently completed a two-year backend development program. Currently pursuing frontend development (1 year remaining) and starting cybersecurity studies in August.
 
 ---
 
-## Current Focus
+## Focus & Technical Direction
 
-- Backend development: Python, REST APIs, automation
-- Frontend development: React and modern web technologies (ongoing studies)
-- Cybersecurity: starting formal studies in August
-- Building practical projects to develop full-stack capabilities
-
----
-
-## Technical Areas
-
-- Backend: API design, data handling, system structure
-- Frontend: component-based UI development (in progress)
+- Backend: Python, REST APIs, automation
+- Frontend: React (ongoing studies)
 - Systems: Linux, networking, reliability
-- Security: secure coding practices and foundational concepts
+- Security: foundational security concepts and secure development practices
+- Building practical projects to strengthen full-stack capabilities
+
+---
+
+## Current Projects
+
+- Coming soon
 
 ---
 
 ## Background
 
-Extensive experience working with business-critical systems, including:
-- 24/7 operations
-- infrastructure and networking
-- troubleshooting complex environments
+Experience with business-critical systems, including:
 
-This background influences how I approach development:
-with a strong focus on reliability, maintainability, and real-world constraints.
+- 24/7 operations
+- Infrastructure and networking
+- Troubleshooting complex environments
+
+This background shapes how I approach development: focusing on reliability, maintainability, and real-world constraints.
 
 ---
 
