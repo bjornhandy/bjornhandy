@@ -1,42 +1,43 @@
 ## About Me
 
-IT professional with 25+ years in infrastructure, operations, and troubleshooting.
+IT professional with 25+ years of experience in infrastructure, operations, and troubleshooting.
 
-Currently focused on building skills in backend development, automation, and cybersecurity.
-
----
-
-## What I'm Working On
-
-- Learning backend development (Python, APIs, automation)
-- Building small, practical projects
-- Exploring security concepts and best practices
+Recently completed a two-year backend development program, and currently pursuing frontend development (1 year remaining) alongside upcoming studies in cybersecurity.
 
 ---
 
-## Technical Focus
+## Current Focus
 
-- Python (learning / building)
-- REST APIs
-- Automation scripts
-- Linux / networking fundamentals
-- Security fundamentals
+- Backend development (Python, APIs, system design)
+- Frontend development (ongoing studies)
+- Cybersecurity (starting August)
+- Building practical projects to strengthen full-stack capabilities
+
+---
+
+## Technical Direction
+
+- Backend: Python, REST APIs, automation
+- Frontend: Modern web development (in progress)
+- Systems: Linux, networking, reliability
+- Security: Growing focus on secure design and practices
 
 ---
 
 ## Background
 
-Strong experience with:
-- 24/7 systems
-- troubleshooting complex environments
+Extensive experience working with business-critical systems, including:
+- 24/7 operations
 - infrastructure and networking
+- troubleshooting complex environments
 
-This background shapes how I approach development:
-reliability, clarity, and real-world constraints first.
+This background influences how I approach development:
+with a strong focus on reliability, maintainability, and real-world constraints.
 
 ---
 
 ## Goals
 
-- Transition into a backend / software engineering role
-- Build secure and maintainable systems
+- Transition into a Software Engineering role (backend / full-stack)
+- Build secure, production-ready systems
+- Combine development with security-focused thinking
