@@ -8,19 +8,19 @@ Recently completed a two-year backend development program, and currently pursuin
 
 ## Current Focus
 
-- Backend development (Python, APIs, system design)
-- Frontend development (ongoing studies)
-- Cybersecurity (starting August)
-- Building practical projects to strengthen full-stack capabilities
+- Backend development: Python, REST APIs, automation
+- Frontend development: React and modern web technologies (ongoing studies)
+- Cybersecurity: starting formal studies in August
+- Building practical projects to develop full-stack capabilities
 
 ---
 
-## Technical Direction
+## Technical Areas
 
-- Backend: Python, REST APIs, automation
-- Frontend: Modern web development (in progress)
+- Backend: API design, data handling, system structure
+- Frontend: component-based UI development (in progress)
 - Systems: Linux, networking, reliability
-- Security: Growing focus on secure design and practices
+- Security: secure coding practices and foundational concepts
 
 ---
 
